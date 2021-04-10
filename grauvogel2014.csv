@@ -15,9 +15,9 @@ US_CHN_89,US,China,1989-ongoing,0.89,0.2,0.4,0,0.8,0.96
 EU_CHN_89,EU,China,1989-ongoing,0.89,0.2,0.6,0,0.8,0.96
 US_COL_96,US,Colombia,1996-1998,0.94,0.8,0.8,0.2,1,0.17
 EU_COM_99,EU,Comoros,1999-2000,0.16,0.4,0.4,1,0,0
-US_CIV_99,US,Côte d'Ivoire,1999-2002,0.3,0.8,0.4,0.8,0.4,0.35
-EU_CIV_00,EU,Côte d'Ivoire,2000-2002,0.97,0.6,0.6,0.8,0.2,0.35
-UN_CIV_04,UN,Côte d'Ivoire,2004-ongoing,0.99,0.8,0.8,0.8,0.6,0.35
+US_CIV_99,US,Cote d'Ivoire,1999-2002,0.3,0.8,0.4,0.8,0.4,0.35
+EU_CIV_00,EU,Cote d'Ivoire,2000-2002,0.97,0.6,0.6,0.8,0.2,0.35
+UN_CIV_04,UN,Cote d'Ivoire,2004-ongoing,0.99,0.8,0.8,0.8,0.6,0.35
 EU_HRV_92,EU,Croatia,1992-2000,0.07,0.2,1,0.6,0.4,0.83
 UN_HRV_92,UN,Croatia,1992-1996,0.56,0.2,1,0.6,0.8,0.83
 US_CUB_60,US,Cuba,1960-ongoing,0.94,1,0.6,0.6,0.4,0.98
